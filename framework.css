@@ -57,60 +57,61 @@ table {
 
 .col1 {
     grid-column: span1;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col2 {
     grid-column: span2;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col3 {
     grid-column: span3;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col4 {
     grid-column: span4;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col5 {
     grid-column: span5;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col6 {
     grid-column: span6;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col7 {
     grid-column: span7;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col8 {
     grid-column: span8;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col9 {
     grid-column: span9;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col10 {
     grid-column: span10;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col11 {
     grid-column: span11;
-    margin: auto;
+    margin: 0 auto;
 }
 
 .col12 {
-    grid-column: span12;
-    margin: auto;
+    grid-column: 1 / -1;
+    width: 100%;
+    margin: 0 auto;
 }
